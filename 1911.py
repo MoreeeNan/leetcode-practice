@@ -26,6 +26,3 @@ if __name__ == '__main__':
     solution = Solution(x)
     y = solution.maxAlternatingSum()
     print(y)
-
-
-
